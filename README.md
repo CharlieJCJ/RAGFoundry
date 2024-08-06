@@ -18,7 +18,7 @@ files.
 Clone locally and run:
 
 ```sh
-pip install -r requirements.txt
+pip install -r docs/requirements.txt
 ```
 
 ## Overview
